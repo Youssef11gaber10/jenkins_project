@@ -1,0 +1,3 @@
+use_module/ssh-private-key.pem
+use_module/.terraform.lock.hcl
+use_module/.terraform/*
